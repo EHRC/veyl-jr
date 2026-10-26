@@ -1,0 +1,5 @@
+websockets>=13.1
+sounddevice>=0.4.6
+numpy>=1.26
+PyQt6>=6.6
+python-dotenv>=1.0

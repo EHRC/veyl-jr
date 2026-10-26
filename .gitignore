@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+# Por si alguien apunta CARPETA_REUNIONES dentro del repo: las reuniones nunca se suben
+Reuniones/
+reuniones/
+.*.tmp
